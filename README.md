@@ -58,8 +58,11 @@ Unreal only wants `.ush` or `.usf`, sorry.
 
 ## Thanks
 
-[CustomShaderDirectoryExample repo](https://github.com/Sythenz/CustomShaderDirectoryExample)
-by [@codekittah](https://twitter.com/codekittah)
+Massive thanks to [@codekittah](https://twitter.com/codekittah) who did 99.9% of the work with
+her [CustomShaderDirectoryExample repo](https://github.com/Sythenz/CustomShaderDirectoryExample)
+and [YouTube tutorial](https://www.youtube.com/watch?v=V3BVsYV7ge0).
+
+This plugin takes those and adds the Project Settings stuff around it.
 
 ## License
 

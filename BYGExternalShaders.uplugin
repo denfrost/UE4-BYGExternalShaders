@@ -3,7 +3,7 @@
 	"Version": 1,
 	"VersionName": "1.0",
 	"FriendlyName": "BYG External Shaders",
-	"Description": "Loads externally-editable .ush material files.",
+	"Description": "Edit custom node shader code outside Unreal.",
 	"Category": "",
 	"CreatedBy": "benui @ Brace Yourself Games",
 	"CreatedByURL": "https://benui.ca/",
